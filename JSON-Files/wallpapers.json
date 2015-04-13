@@ -1,6 +1,11 @@
 { 
 "wallpapers": 
 	[ 
+			{
+			"author": "Tarun Gupta",
+			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/circles.png",
+			"name": "Circles"
+		},
 		{
 			"author": "Juan M. Saracho",
 			"url": "https://raw.githubusercontent.com/MinDesigns/MinDesigns-Wallpapers/master/Wallpapers/1MaterialCircles/CirclesBlue.png",
