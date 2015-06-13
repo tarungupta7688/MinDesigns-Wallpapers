@@ -3,18 +3,18 @@
 	[ 
 		{
 			"author": "Tarun Gupta",
-			"url": "https://raw.githubusercontent.com/tarungupta7688/MinDesigns-Wallpapers/master/stamps/black.jpg",
-			"name": "Black"
+			"url": "https://raw.githubusercontent.com/tarungupta7688/MinDesigns-Wallpapers/master/stamps/abstractblue.jpg",
+			"name": "Abstractblue"
+		},
+		{
+			"author": "Tarun Gupta",
+			"url": "https://raw.githubusercontent.com/tarungupta7688/MinDesigns-Wallpapers/master/stamps/abstractbrown.jpg",
+			"name": "Abstractbrown"
 		},
 		{
 			"author": "Tarun Gupta",
 			"url": "https://raw.githubusercontent.com/tarungupta7688/MinDesigns-Wallpapers/master/stamps/blue.jpg",
 			"name": "Blue"
-		},
-		{
-			"author": "Tarun Gupta",
-			"url": "https://raw.githubusercontent.com/tarungupta7688/MinDesigns-Wallpapers/master/stamps/bluedark.jpg",
-			"name": "Bluedark"
 		},
 		{
 			"author": "Tarun Gupta",
@@ -80,7 +80,17 @@
 			"author": "Tarun Gupta",
 			"url": "https://raw.githubusercontent.com/tarungupta7688/MinDesigns-Wallpapers/master/stamps/white.jpg",
 			"name": "White"
-		}
+		},
+		{
+			"author": "Tarun Gupta",
+			"url": "https://raw.githubusercontent.com/tarungupta7688/MinDesigns-Wallpapers/master/stamps/bluedark.jpg",
+			"name": "Bluedark"
+		} ,
+		{
+			"author": "Tarun Gupta",
+			"url": "https://raw.githubusercontent.com/tarungupta7688/MinDesigns-Wallpapers/master/stamps/black.jpg",
+			"name": "Black"
+		} 
 		 
 	]
 }
